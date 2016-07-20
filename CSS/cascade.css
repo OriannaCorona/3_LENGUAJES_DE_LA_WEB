@@ -1,0 +1,23 @@
+
+
+h1{ 
+	color:red;
+	font-family: Arial; 
+	font-weight: 500;
+	font-size: 20px; 
+}
+img{
+	font-size:1px; 
+	border-style:solid;
+	color:blue;
+}
+h2{
+	color:black;
+	font-size: 16px;
+}
+p{	font-family: 'Open Sans Condensed', sans-serif;
+	color:yellow;
+	font-size: 14px;
+}
+
+
